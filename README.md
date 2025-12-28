@@ -1,111 +1,61 @@
 
-<h1 align="center">🏴‍☠️ EL MOSTAPHA JAAIDI</h1>
-<h3 align="center">🌱 Agro‑Tech Developer · Python · Data Engineering · IoT · Climate Intelligence</h3>
+<div align="center">
 
-<p align="center"><em>“Desde el microscopio al teclado: ciencia convertida en sistemas inteligentes para la agricultura.”</em></p>
+<h1 style="color:#ff4d4d; font-size:42px;">🏴‍☠️ EL MOSTAPHA JAAIDI</h1>
 
-<p align="center">
-  <a href="https://jaaidi0.github.io">🌐 Portafolio</a> •
-  <a href="https://www.linkedin.com/in/el-jaidi/">💼 LinkedIn</a> •
-  <a href="mailto:eljaa@alum.us.es">📧 Email</a> •
-  <a href="https://github.com/jaaidi0">🐙 GitHub</a>
+<h3 style="color:#2ecc71; font-size:22px;">
+🌱 Agro‑Tech Developer · Python · Data Engineering · IoT · Climate Intelligence
+</h3>
+
+<p style="color:#f1c40f; font-size:18px;">
+“Desde el microscopio al teclado: ciencia convertida en sistemas inteligentes para la agricultura.”
 </p>
 
----
+<br>
 
-## ⚡ Sobre mí
-- 🌦️ **Climate Intelligence:** ETLs, análisis de clima, series temporales, anomalías.  
-- 🌾 **Smart Farming:** telemetría IoT, VPD, riesgo fúngico, sensores ESP32.  
-- 🧠 **Decisión Agrícola:** transformar datos ambientales en decisiones prácticas.  
-- 🐍 **Python Developer:** backend, APIs, automatización, análisis.  
-- 🐳 **Infraestructura reproducible:** Docker, TimescaleDB, servicios modularizados.
+<a href="https://jaaidi0.github.io" style="color:#3498db; font-size:18px;">🌐 Portafolio</a> •
+<a href="https://www.linkedin.com/in/el-jaidi/" style="color:#0A66C2; font-size:18px;">💼 LinkedIn</a> •
+<a href="mailto:eljaa@alum.us.es" style="color:#e74c3c; font-size:18px;">📧 Email</a> •
+<a href="https://github.com/jaaidi0" style="color:#9b59b6; font-size:18px;">🐙 GitHub</a>
 
-Mi misión: unir **biología + datos + IoT** para crear tecnología que entienda el campo… y lo mejore.
+</div>
 
 ---
 
-## ✨ Impacto · Resultados Profesionales
+# 🚀 PROYECTOS DESTACADOS
 
-### 🌾 Agricultura Inteligente  
-- Sistemas de telemetría completos: **sensor → API → DB → dashboard**  
-- Indicadores agronómicos (VPD, humedad, riesgo fúngico) para decisión en campo.  
-
-### 🌦️ Inteligencia Climática  
-- Pipelines AEMET con agregación diaria, anomalías, mapas y análisis por zona.  
-- Dashboards que permiten entender clima local y riesgo agronómico.  
-
-### 🐳 Arquitectura reproducible  
-- Sistemas completos en Docker (API + TimescaleDB + Grafana).  
-- Capaces de desplegarse en segundos para análisis o pruebas.  
-
-### 📈 Visualización  
-- Streamlit, Grafana y Plotly para dashboards claros y accionables.  
-
-### 🎓 Ciencia + Ingeniería  
-- Background en biología + data engineering para diseñar soluciones útiles y reales.
+### 🌾 **AgroSentinel — IoT para Agricultura Inteligente**  
+📡 Sensores · 📊 VPD · 🦠 Riesgo fúngico · 🐳 Docker + TimescaleDB  
+🔗 https://github.com/jaaidi0/AgroSentinel  
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🌾 AgroSentinel — IoT para Smart Farming  
-Sistema IoT para monitoreo agrícola en tiempo real (VPD, riesgo fúngico, microclima).  
-**Stack:** Python · Docker · TimescaleDB · Grafana  
-🔗 https://github.com/jaaidi0/AgroSentinel
-
----
-
-### 🌦️ AEMET Dashboard Pro  
-ETL y dashboard geoespacial usando AEMET OpenData + Streamlit.  
-**Stack:** Python · Stream/aemet-dashboard-pro  
+### 🌦️ **AEMET Dashboard Pro — ETL + Inteligencia Climática**  
+🛰️ AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit  
 ▶️ Demo: https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app/
 
 ---
 
-### 🧭 Archipiélago Digital  
-Portafolio profesional + identidad visual + proyectos técnicos.  
+### 🧭 **Archipiélago Digital — Mi Portafolio Técnico**  
 🌐 https://jaaidi0.github.io/archipielago-digital/
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+# 🛠️ STACK PRINCIPAL
 
-**Lenguajes:**  
-🐍 Python · 💻 Bash/Zsh  
-
-**Backend & APIs:**  
-⚙️ Flask · FastAPI · REST APIs  
-
-**Datos:**  
-🐘 PostgreSQL · ⏱️ TimescaleDB  
-
-**Infraestructura:**  
-🐳 Docker · Docker Compose  
-
-**Visualización:**  
-📈 Grafana · 📊 Plotly · 🌐 Streamlit  
-
-**IoT:**  
-🔌 ESP32 · 🌡️ Sensores ambientales · 🔗 HTTP/JSON  
-
-**DevOps:**  
-🌀 Git/GitHub · ♻️ GitHub Actions · 🧹 ruff · 🧪 pytest  
+🐍 Python · ⚡ FastAPI · 🐘 PostgreSQL/TimescaleDB  
+🐳 Docker · 📈 Grafana · 🌐 Streamlit  
+🔌 ESP32 · 🌡️ Sensores ambientales
 
 ---
 
-## 📌 Busco colaborar en:
-- Proyectos AgroTech  
-- ETL y Data Engineering  
-- Smart Farming con IoT  
-- Dashboards y análisis climático  
-
-📩 **Contacto:**  
-- Email: **eljaa@alum.us.es**  
-- LinkedIn: https://www.linkedin.com/in/el-jaidi/
+# 🎯 MI MISIÓN
+**Construir tecnología que entiende el campo.  
+Convertir datos en acción.  
+Impulsar una agricultura más precisa y sostenible. 🌱**
 
 ---
 
-## ✨ Mi visión
-Tecnología que entiende el campo.  
-Datos que generan decisiones.  
-Soluciones que impulsan una agricultura más sostenible y precisa. 🌱
+# 📩 CONTACTO  
+**LinkedIn:** https://www.linkedin.com/in/el-jaidi/  
+**Email:** eljaa@alum.us.es
