@@ -1,22 +1,26 @@
 
 <div align="center">
 
-<h1 style="color:#ff4d4d; font-size:42px;">🏴‍☠️ EL MOSTAPHA JAAIDI</h1>
+<h1 style="color:#ff4d4d; font-size:46px; font-weight:bold;">
+🏴‍☠️ EL MOSTAPHA JAAIDI
+</h1>
 
-<h3 style="color:#2ecc71; font-size:22px;">
+<h3 style="color:#2ecc71; font-size:23px; font-weight:600;">
 🌱 Agro‑Tech Developer · Python · Data Engineering · IoT · Climate Intelligence
 </h3>
 
-<p style="color:#f1c40f; font-size:18px;">
+<p style="color:#f1c40f; font-size:19px; font-style:italic;">
 “Desde el microscopio al teclado: ciencia convertida en sistemas inteligentes para la agricultura.”
 </p>
 
 <br>
 
-<a href="https://jaaidi0.github.io" style="color:#3498db; font-size:18px;">🌐 Portafolio</a> •
-<a href="https://www.linkedin.com/in/el-jaidi/" style="color:#0A66C2; font-size:18px;">💼 LinkedIn</a> •
-<a href="mailto:eljaa@alum.us.es" style="color:#e74c3c; font-size:18px;">📧 Email</a> •
-<a href="https://github.com/jaaidi0" style="color:#9b59b6; font-size:18px;">🐙 GitHub</a>
+<p>
+<a href="https://jaaidi0.github.io" style="color:#3498db; font-size:18px; font-weight:bold;">🌐 Portafolio</a> •
+<a href="https://www.linkedin.com/in/el-jaidi/" style="color:#0A66C2; font-size:18px; font-weight:bold;">💼 LinkedIn</a> •
+<a href="mailto:eljaa@alum.us.es" style="color:#e74c3c; font-size:18px; font-weight:bold;">📧 Email</a> •
+<a href="https://github.com/jaaidi0" style="color:#9b59b6; font-size:18px; font-weight:bold;">🐙 GitHub</a>
+</p>
 
 </div>
 
@@ -31,7 +35,7 @@
 ---
 
 ### 🌦️ **AEMET Dashboard Pro — ETL + Inteligencia Climática**  
-🛰️ AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit  
+🛰️ Datos AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit  
 ▶️ Demo: https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app/
 
 ---
@@ -50,6 +54,7 @@
 ---
 
 # 🎯 MI MISIÓN
+
 **Construir tecnología que entiende el campo.  
 Convertir datos en acción.  
 Impulsar una agricultura más precisa y sostenible. 🌱**
@@ -57,5 +62,6 @@ Impulsar una agricultura más precisa y sostenible. 🌱**
 ---
 
 # 📩 CONTACTO  
+
 **LinkedIn:** https://www.linkedin.com/in/el-jaidi/  
 **Email:** eljaa@alum.us.es
