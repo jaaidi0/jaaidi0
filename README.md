@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1 style="color:#ff4d4d; font-size:46px; font-weight:bold;">
@@ -26,30 +25,34 @@
 
 ---
 
+# 🚀 HITOS RECIENTES (Diciembre 2025)
+
+> [!IMPORTANT]
+> **Cloud Migration Success**: Despliegue de **AgroSentinel v1.3** en **Microsoft Azure**. Migración de arquitectura local a contenedores **Docker** con persistencia en **Azure PostgreSQL** (Región Madrid) y orquestación de alertas en tiempo real.
+
+---
+
 # 🚀 PROYECTOS DESTACADOS
 
-### 🌾 **AgroSentinel — IoT para Agricultura Inteligente**  
-📡 Sensores · 📊 VPD · 🦠 Riesgo fúngico · 🐳 Docker + TimescaleDB  
-🔗 https://github.com/jaaidi0/AgroSentinel  
+### 🌾 **AgroSentinel v1.3 — IoT & Cloud Intelligence** 📡 Sensores · 📊 **VPD** · 🐳 Docker · ☁️ **Azure Cloud** *Sistema profesional de monitoreo climático que transforma datos en diagnósticos biológicos de estrés hídrico.* 🔗 [Ver Repositorio](https://github.com/jaaidi0/AgroSentinel)  
 
 ---
 
-### 🌦️ **AEMET Dashboard Pro — ETL + Inteligencia Climática**  
-🛰️ Datos AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit  
-▶️ Demo: https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app/
+### 🌦️ **AEMET Dashboard Pro — ETL + Inteligencia Climática** 🛰️ Datos AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit  
+*Visualización avanzada de datos climáticos históricos y predicciones mediante integración de APIs oficiales.* ▶️ [Demo en Vivo](https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app/)
 
 ---
 
-### 🧭 **Archipiélago Digital — Mi Portafolio Técnico**  
-🌐 https://jaaidi0.github.io/archipielago-digital/
+### 🧭 **Archipiélago Digital — Mi Portafolio Técnico** 🌐 [Visitar Portafolio](https://jaaidi0.github.io/archipielago-digital/)
 
 ---
 
 # 🛠️ STACK PRINCIPAL
 
-🐍 Python · ⚡ FastAPI · 🐘 PostgreSQL/TimescaleDB  
-🐳 Docker · 📈 Grafana · 🌐 Streamlit  
-🔌 ESP32 · 🌡️ Sensores ambientales
+**Data & Cloud:** 🐍 Python · ⚡ FastAPI · 🐳 Docker · ☁️ Microsoft Azure  
+**Databases:** 🐘 PostgreSQL · 📈 TimescaleDB  
+**Visualization:** 📊 Grafana · 🌐 Streamlit  
+**IoT & Hardware:** 🔌 ESP32 · 🌡️ Sensores Ambientales · 🤖 n8n Orquestación
 
 ---
 
@@ -57,11 +60,11 @@
 
 **Construir tecnología que entiende el campo.  
 Convertir datos en acción.  
-Impulsar una agricultura más precisa y sostenible. 🌱**
+Impulsar una agricultura más precisa y sostenible desde Dos Hermanas. 🌱**
 
 ---
 
 # 📩 CONTACTO  
 
-**LinkedIn:** https://www.linkedin.com/in/el-jaidi/  
-**Email:** eljaa@alum.us.es
+**LinkedIn:** [https://www.linkedin.com/in/el-jaidi/](https://www.linkedin.com/in/el-jaidi/)  
+**Email:** [eljaa@alum.us.es](mailto:eljaa@alum.us.es)
