@@ -25,11 +25,22 @@
 
 ---
 
-# 🚀 HITOS RECIENTES (Diciembre 2025)
+# 🚀 HITOS RECIENTES (Q1 2026)
 
-> [!IMPORTANT]
-> **Cloud Migration Success**: Despliegue de **AgroSentinel v1.3** en **Microsoft Azure**. Migración de arquitectura local a contenedores **Docker** con persistencia en **Azure PostgreSQL** (Región Madrid) y orquestación de alertas en tiempo real.
+> [!CAUTION]
+> **Hybrid Cloud Infiltration**: He migrado y consolidado la arquitectura de **AgroSentinel v1.3** a un entorno **Multi-Cloud**. 
+> - **Core:** Desplegado en **Google Cloud (GCP)** para aprovechar la baja latencia en Madrid.
+> - **IA:** Integración nativa con **Gemini 1.5 Flash** para diagnósticos biológicos.
+> - **Storage:** Resiliencia de datos mediante **Cloud SQL (PostgreSQL)**.
+> - **Legacy:** Experiencia previa en **Microsoft Azure** para infraestructuras IoT.
 
+---
+
+# 🛠️ STACK TECNOLÓGICO (Híbrido)
+
+**Cloud & Edge:** ☁️ Google Cloud (GCP) · ☁️ Microsoft Azure · 🔌 ESP32 / IoT  
+**Intelligence:** 🧠 Google Gemini IA · 🤖 n8n (Automation) · 📈 VPD Biometrics  
+**Backend:** 🐍 Python · 🐳 Docker · 🐘 PostgreSQL · ⚡ FastAPI
 ---
 
 # 🚀 PROYECTOS DESTACADOS
