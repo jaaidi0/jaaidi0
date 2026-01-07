@@ -15,7 +15,7 @@
 <br>
 
 <p>
-<a href="https://jaaidi0.github.io/archipielago-digital/" style="color:#3498db; font-size:18px; font-weight:bold;">🌐 Portafolio</a> •
+<a href="https://jaaidi0.github.io" style="color:#3498db; font-size:18px; font-weight:bold;">🌐 Portafolio</a> •
 <a href="https://www.linkedin.com/in/el-jaidi/" style="color:#0A66C2; font-size:18px; font-weight:bold;">💼 LinkedIn</a> •
 <a href="mailto:eljaa@alum.us.es" style="color:#e74c3c; font-size:18px; font-weight:bold;">📧 Email</a> •
 <a href="https://github.com/jaaidi0" style="color:#9b59b6; font-size:18px; font-weight:bold;">🐙 GitHub</a>
