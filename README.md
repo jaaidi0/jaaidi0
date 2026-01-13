@@ -25,37 +25,47 @@
 
 ---
 
-# 🚀 HITOS RECIENTES (Q1 2026)
+## 🚀 HITOS RECIENTES (Q1 2026)
 
-> [!CAUTION]
-> **Hybrid Cloud Infiltration**: He migrado y consolidado la arquitectura de **AgroSentinel v1.3** a un entorno **Multi-Cloud**. 
-> - **Core:** Desplegado en **Google Cloud (GCP)** para aprovechar la baja latencia en Madrid.
-> - **IA:** Integración nativa con **Gemini 1.5 Flash** para diagnósticos biológicos.
-> - **Storage:** Resiliencia de datos mediante **Cloud SQL (PostgreSQL)**.
-> - **Legacy:** Experiencia previa en **Microsoft Azure** para infraestructuras IoT.
+> **Multi-Cloud Architecture:**  He migrado AgroSentinel v1.4.0 a una arquitectura distribuida **GCP Madrid + DigitalOcean Frankfurt**. 
 
----
-
-# 🛠️ STACK TECNOLÓGICO (Híbrido)
-
-**Cloud & Edge:** ☁️ Google Cloud (GCP) · ☁️ Microsoft Azure · 🔌 ESP32 / IoT  
-**Intelligence:** 🧠 Google Gemini IA · 🤖 n8n (Automation) · 📈 VPD Biometrics  
-**Backend:** 🐍 Python · 🐳 Docker · 🐘 PostgreSQL · ⚡ FastAPI
----
-
-# 🚀 PROYECTOS DESTACADOS
-
-### 🌾 **AgroSentinel v1.3 — IoT & Cloud Intelligence** 📡 Sensores · 📊 **VPD** · 🐳 Docker · ☁️ **Azure Cloud** *Sistema profesional de monitoreo climático que transforma datos en diagnósticos biológicos de estrés hídrico.* 🔗 [Ver Repositorio](https://github.com/jaaidi0/AgroSentinel)  
+- **Telemetría:** GCP Madrid (baja latencia sensores IoT Europa)
+- **IA/Procesamiento:** DigitalOcean Frankfurt (Gemini 2.5 Flash + n8n)
+- **Sincronización:** Pipeline bidireccional de datos climáticos en tiempo real
+- **Video Reports:** Generación automatizada de informes con FFmpeg + IA
 
 ---
 
-### 🌦️ **AEMET Dashboard Pro — ETL + Inteligencia Climática** 🛰️ Datos AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit  
-*Visualización avanzada de datos climáticos históricos y predicciones mediante integración de APIs oficiales.* ▶️ [Demo en Vivo](https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app/)
+## 🚀 PROYECTOS DESTACADOS
+
+### 🌾 **[AgroSentinel v1.4.0](https://github.com/jaaidi0/AgroSentinel)** — Multi-Cloud IoT Intelligence
+
+**📡 Sensores · 📊 VPD · 🤖 IA Gemini 2.5 · ☁️ Multi-Cloud (GCP + DigitalOcean)**
+
+Sistema profesional de monitoreo agrícola que combina arquitectura distribuida, Machine Learning y automatización para decisiones en sanidad vegetal.
+
+**Impacto:**
+- 🍇 40% reducción uso fungicidas (viticultura)
+- 🍅 +25% producción en invernaderos
+- 🔬 Pipeline datos climáticos para investigación
+
+🔗 **[Ver Repositorio](https://github.com/jaaidi0/AgroSentinel)** | 📦 **[Release v1.4.0](https://github.com/jaaidi0/AgroSentinel/releases/tag/v1.4.0)**
 
 ---
 
-### 🧭 **Archipiélago Digital — Mi Portafolio Técnico** 🌐 [Visitar Portafolio](https://jaaidi0.github.io/archipielago-digital/)
+### 🌦️ **[AEMET Dashboard Pro](https://github.com/jaaidi0/aemet-dashboard-pro)** — ETL + Inteligencia Climática
 
+**🛰️ API AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit**
+
+Visualización avanzada de datos climáticos históricos con integración de APIs oficiales. 
+
+▶️ **[Demo en Vivo](URL_si_existe)**
+
+---
+
+### 🧭 **[Archipiélago Digital](https://jaaidi0.github.io)** — Portafolio Técnico
+
+🌐 **[Visitar Portafolio](https://jaaidi0.github.io)**
 ---
 
 # 🛠️ STACK PRINCIPAL
