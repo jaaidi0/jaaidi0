@@ -53,7 +53,7 @@ Sistema profesional de monitoreo agrícola que combina arquitectura distribuida,
 
 ---
 
-### 🌦️ **[AEMET Dashboard Pro](https://github.com/jaaidi0/aemet-dashboard-pro)** — ETL + Inteligencia Climática
+### 🌦️ **[AEMET Dashboard Pro]( https://aemet-dashboard-pro-3s9ay3cnvowfgvrutqvh4w.streamlit.app)** — ETL + Inteligencia Climática
 
 **🛰️ API AEMET · 🗺️ Mapas · 📈 Series temporales · 🌐 Streamlit**
 
