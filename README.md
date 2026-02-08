@@ -23,23 +23,31 @@
 
 ---
 
-## 🔴 URGENTE: DISPONIBILIDAD FCT (Prácticas)
+## 🎯 OPEN TO WORK: Agro-Tech · Data Engineering · Python Backend
 
 ```diff
-+ 📅 INICIO: 4 MARZO 2026
-+ ⏱️ DURACIÓN: 3-6 meses
-+ 📍 MODALIDAD: Sevilla (presencial/híbrido) o Remoto
-+ 🎓 CERTIFICACIÓN: Técnico en Microinformática y Redes
++ 📅 DISPONIBLE: Inmediato (post-FCT marzo 2026)
++ 📍 MODALIDAD: Sevilla, Andalucía o Remoto
++ 💼 BUSCANDO: Posición junior/mid en Agro-Tech, Data Engineering o Backend Python
++ 🎓 FCT: 4-25 marzo 2026 (Ayuntamiento Dos Hermanas - Microinformática)
 ```
 
-### Sectores de interés para FCT:
-- ✅ **Agro-Tech / Smart Farming**
-- ✅ **Data Engineering / Backend Python**
-- ✅ **IoT y Sistemas Embebidos**
-- ✅ **Automatización y DevOps**
+### Lo que busco:
+- ✅ **Agro-Tech / Smart Farming** - Mi especialización principal
+- ✅ **Data Engineering / Backend Python** - Pipelines, ETL, FastAPI
+- ✅ **IoT y Sistemas Embebidos** - ESP32, sensores, telemetría
+- ✅ **Cloud & DevOps** - GCP, DigitalOcean, Docker, automatización
 
-**¿Tu empresa ofrece plazas FCT? ¿Conoces oportunidades en Agro-Tech?**  
+**¿Tu empresa necesita un perfil híbrido Biología + Data Engineering?**  
 👉 Contacta conmigo: **jaidielmostapha@gmail.com** · [LinkedIn](https://www.linkedin.com/in/el-jaidi/)
+
+---
+
+### 📌 FCT (Formación en Centros de Trabajo)
+**Periodo:** 4-25 marzo 2026 (16 días)  
+**Centro:** Ayuntamiento de Dos Hermanas  
+**Curso:** Operaciones auxiliares de montaje y mantenimiento de sistemas microinformáticos II  
+**Objetivo:** Certificación + transición a empleo en sector tecnológico
 
 ---
 
