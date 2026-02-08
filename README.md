@@ -215,19 +215,26 @@ tech_stack = {
 
 ---
 
-## 📈 GITHUB STATS
+## 📊 ACTIVIDAD EN GITHUB
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaidi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaidi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaaidi0&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaaidi0&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)](https://git.io/streak-stats)
 
 </div>
 
-> **Nota:** Si las estadísticas no se muestran, asegúrate de que tu repositorio de perfil `jaaidi0/jaaidi0` existe y es público.
+### 🏆 Métricas de Contribución
+
+<div align="center">
+
+| Métrica | Valor |
+|---------|-------|
+| 📦 **Repositorios Públicos** | Ver en [GitHub](https://github.com/jaaidi0?tab=repositories) |
+| ⭐ **Estrellas Recibidas** | Proyectos destacados: AgroSentinel, AEMET Dashboard |
+| 🔱 **Lenguaje Principal** | Python (63% en AgroSentinel) |
+| 🚀 **Proyectos Activos** | 3 principales + experimentales |
+
+</div>
 
 ---
 
