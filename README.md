@@ -12,7 +12,7 @@
 <p>
 <a href="https://jaaidi0.github.io" style="color:#3498db; font-size:18px; font-weight:bold;">🌐 Portafolio</a> •
 <a href="https://www.linkedin.com/in/el-jaidi/" style="color:#0A66C2; font-size:18px; font-weight:bold;">💼 LinkedIn</a> •
-<a href="mailto:jaidielmostapha@gmail.com" style="color:#e74c3c; font-size:18px; font-weight:bold;">📧 Email</a> •
+<a href="mailto:al396836@uji.es" style="color:#e74c3c; font-size:18px; font-weight:bold;">📧 Email</a> •
 <a href="https://github.com/jaaidi0" style="color:#9b59b6; font-size:18px; font-weight:bold;">🐙 GitHub</a>
 </p>
 
@@ -39,7 +39,7 @@
 - ✅ **Cloud & DevOps** - GCP, DigitalOcean, Docker, automatización
 
 **¿Tu empresa necesita un perfil híbrido Biología + Data Engineering?**  
-👉 Contacta conmigo: **jaidielmostapha@gmail.com** · [LinkedIn](https://www.linkedin.com/in/el-jaidi/)
+👉 Contacta conmigo: **al396836@uji.es** · [LinkedIn](https://www.linkedin.com/in/el-jaidi/)
 
 ---
 
@@ -217,13 +217,17 @@ tech_stack = {
 
 ## 📈 GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaaidi0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaaidi0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaaidi0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaidi0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaaidi0&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+
+</div>
+
+> **Nota:** Si las estadísticas no se muestran, asegúrate de que tu repositorio de perfil `jaaidi0/jaaidi0` existe y es público.
 
 ---
 
@@ -309,7 +313,7 @@ Oportunidades en **Agro-Tech**, **Data Engineering** o **Automatización con Pyt
 
 ```json
 {
-  "email": "jaidielmostapha@gmail.com",
+  "email": "al396836@uji.es",
   "github": "github.com/jaaidi0",
   "portfolio": "jaaidi0.github.io",
   "linkedin": "linkedin.com/in/el-jaidi",
@@ -319,7 +323,7 @@ Oportunidades en **Agro-Tech**, **Data Engineering** o **Automatización con Pyt
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaidielmostapha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al396836@uji.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/el-jaidi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jaaidi0.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaaidi0)
