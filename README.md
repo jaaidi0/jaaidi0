@@ -26,10 +26,9 @@
 ## 🎯 OPEN TO WORK: Agro-Tech · Data Engineering · Python Backend
 
 ```diff
-+ 📅 DISPONIBLE: Inmediato (post-FCT marzo 2026)
++ 📅 DISPONIBLE: Inmediatamente
 + 📍 MODALIDAD: Sevilla, Andalucía o Remoto
 + 💼 BUSCANDO: Posición junior/mid en Agro-Tech, Data Engineering o Backend Python
-+ 🎓 FCT: 4-25 marzo 2026 (Ayuntamiento Dos Hermanas - Microinformática)
 ```
 
 ### Lo que busco:
@@ -40,14 +39,6 @@
 
 **¿Tu empresa necesita un perfil híbrido Biología + Data Engineering?**  
 👉 Contacta conmigo: **al396836@uji.es** · [LinkedIn](https://www.linkedin.com/in/el-jaidi/)
-
----
-
-### 📌 FCT (Formación en Centros de Trabajo)
-**Periodo:** 4-25 marzo 2026 (16 días)  
-**Centro:** Ayuntamiento de Dos Hermanas  
-**Curso:** Operaciones auxiliares de montaje y mantenimiento de sistemas microinformáticos II  
-**Objetivo:** Certificación + transición a empleo en sector tecnológico
 
 ---
 
@@ -89,7 +80,7 @@ value_proposition = {
 
 ## 🚀 PROYECTOS DESTACADOS
 
-### 🌾 **[AgroSentinel v1.4.0](https://github.com/jaaidi0/AgroSentinel)** — Multi-Cloud IoT Intelligence
+### 🌾 **[AgroSentinel v1.4.0](https://agrosentinel-1.onrender.com)** — Multi-Cloud IoT Intelligence
 
 **📡 Sensores · 📊 VPD · 🤖 IA Gemini 2.5 · ☁️ Multi-Cloud (GCP + DigitalOcean)**
 
@@ -112,7 +103,7 @@ Sistema profesional de monitoreo agrícola que combina arquitectura distribuida,
 
 **Stack:** Python (63%) · FastAPI · TimescaleDB · Docker · n8n · FFmpeg · Edge-TTS
 
-🔗 **[Ver Repositorio](https://github.com/jaaidi0/AgroSentinel)** | 📦 **[Release v1.4.0](https://github.com/jaaidi0/AgroSentinel/releases/tag/v1.4.0)**
+🔗 **[Ver Demo en Vivo](https://agrosentinel-1.onrender.com)** | 📦 **[Release v1.4.0](https://github.com/jaaidi0/AgroSentinel/releases/tag/v1.4.0)**
 
 ---
 
@@ -251,7 +242,7 @@ tech_stack = {
 ### **Formación Académica**
 - 📚 **Ingeniería Agrícola** — Universidad de Sevilla (2021-2023)
 - 🎓 **Ingeniería Agroalimentaria** — Universitat Jaume I (2019-2021)
-- 💻 **Técnico en Microinformática y Redes** (en curso - FCT desde marzo 2026)
+- 💻 **IFCT0108 Operaciones Auxiliares de Montaje y Mantenimiento de Sistemas Microinformáticos II** — Completado (Mar 2026)
 
 ### **Certificaciones**
 - 🏆 **Python Crash Course** — Google (Feb 2026) · [Ver Certificado](https://coursera.org/verify/CPU11BZ4347O)
