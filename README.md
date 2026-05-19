@@ -12,11 +12,13 @@
 
 <br>
 
+<p>
 <a href="https://jaaidi0.github.io">🌐 Portfolio</a> |
 <a href="https://www.linkedin.com/in/el-jaidi/">💼 LinkedIn</a> |
 <a href="mailto:al396836@uji.es">📧 Contacto</a>
+</p>
 
-<br><br>
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaaidi0&theme=tokyonight&hide_border=true"/>
 
