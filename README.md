@@ -38,6 +38,6 @@
 ---
 
 ## 🧬 QUIÉN SOY
-
+Construyo sistemas reales que conectan sensores, datos y decisiones en el campo.
 ```bash
 🔬 Biología + 💻 Software = 🌱 Agro-Tech Intelligence
