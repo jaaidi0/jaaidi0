@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&size=22&center=true&vCenter=true&width=700&lines=Agro-Tech+Developer;Data+Engineering+%2B+IoT;Convirtiendo+datos+en+decisiones;Sistemas+reales+en+producción" />
 
-<h3>🌱 Agro‑Tech Developer · Data Engineer · IoT · Cloud & DevOps</h3>
+<h3>🌱 Agro-Tech Developer & Data Engineer</h3>
 
 <p><b>🚀 Convirtiendo variables biológicas y señales del campo en decisiones automatizadas en producción</b></p>
 
@@ -15,7 +15,7 @@
 <p>
 <a href="https://jaaidi0.github.io">🌐 Portfolio Web</a> |
 <a href="https://linkedin.com/in/el-jaidi">💼 LinkedIn</a> |
-<a href="mailto:eljaa@alum.us.es">📧 Contacto Directo</a>
+<a href="mailto:jaaiidii@gmail.com">📧 Contacto Directo</a>
 </p>
 
 <br>
